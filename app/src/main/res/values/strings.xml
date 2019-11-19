@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MovieCatalogueSUB2</string>
+    <string name="title_activity_list_movie">ListMovie</string>
+
+    <string name="title_a_star" translatable="false">A Star is Born (2018)</string>
+    <string name="title_aquaman" translatable="false">Aquaman (2018)</string>
+    <string name="title_avengerinfinity" translatable="false">Avenger : Infinity War (2018)</string>
+    <string name="title_birdbox" translatable="false">Bird Box (2018)</string>
+    <string name="title_bohemian" translatable="false">Bohemian Rhapsody (2018)</string>
+    <string name="title_bumblebee" translatable="false">Bumblebee (2018)</string>
+    <string name="title_creed" translatable="false">Creed II (2018)</string>
+    <string name="title_deadpool" translatable="false">Once Upon a Deadpool (2018)</string>
+    <string name="title_dragon" translatable="false">How to Train Your Dragon: Hidden World (2019)</string>
+    <string name="title_dragonball" translatable="false">Dragon Ball Super : Broly (2018)</string>
+    <string name="title_glass" translatable="false">Glass (2019)</string>
+    <string name="title_hunterkiller" translatable="false">Hunter Killer (2018)</string>
+
+    <string name="Overview_a_star">Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</string>
+    <string name="Overview_aquaman">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="Overview_avengerinfinity">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string name="Overview_birdbox">Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</string>
+    <string name="Overview_bohemian">Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.z</string>
+    <string name="Overview_bumblebee">On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</string>
+    <string name="Overview_creed">The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.</string>
+    <string name="Overview_deadpool">Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy\'s life.</string>
+    <string name="Overview_dragon">As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup/’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</string>
+    <string name="Overview_dragonball">Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called \'Broly\' who they\'ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what\'s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.</string>
+    <string name="Overview_glass">In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</string>
+    <string name="Overview_hunterkiller">Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</string>
+
+    <string name="tv_title_legacies" translatable="false">Legacies (2018)</string>
+    <string name="tv_title_titans" translatable="false">Titans(2018)</string>
+    <string name="tv_title_theresident" translatable="false">The Resident (2018)</string>
+    <string name="tv_title_therookie" translatable="false">The Rookie (2018)</string>
+    <string name="tv_title_tom" translatable="false">Tom Clancys Jack Ryan (2018)</string>
+    <string name="tv_title_911" translatable="false">991(2018)</string>
+    <string name="tv_title_castilrock" translatable="false">Castel Rock (2018)</string>
+    <string name="tv_title_fbi" translatable="false">FBI (2018)</string>
+    <string name="tv_title_britannia" translatable="false">Britannia (2018)</string>
+    <string name="tv_title_kyripton" translatable="false">Kripton (2018)</string>
+    <string name="tv_title_magnum" translatable="false">Magnum P.I (2019)</string>
+    <string name="tv_title_amillionlittle" translatable="false">A Million Little Thinks (2018)</string>
+
+    <string name="tv_overview_legacies">In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman\’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.</string>
+    <string name="tv_overview_titans">A team of young superheroes led by Nightwing (formerly Batman\'s first Robin) form to combat evil and other perils.</string>
+    <string name="tv_overview_theresident">A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.</string>
+    <string name="tv_overview_therookie">Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.</string>
+    <string name="tv_overview_tom">When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.</string>
+    <string name="tv_overview_911">Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.</string>
+    <string name="tv_overview_castlerock">Based on the stories of Stephen King, the series intertwines characters and themes from the fictional town of Castle Rock.</string>
+    <string name="tv_overview_fbi">The elite unit of the New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.</string>
+    <string name="tv_overview_britannia">An epic drama set in 43AD as the Roman Imperial Army – determined and terrified in equal measure - returns to crush the Celtic heart of Britannia - a mysterious land ruled by warrior women and powerful druids who can channel the powerful forces of the underworld. Or so they say</string>
+    <string name="tv_overview_kyripton">Set two generations before the destruction of the legendary Man of Steel’s home planet, Krypton follows Superman’s grandfather — whose House of El was ostracized and shamed — as he fights to redeem his family’s honor and save his beloved world from chaos.</string>
+    <string name="tv_overview_magnum">Thomas Magnum, a decorated former Navy SEAL who, upon returning home from Afghanistan, repurposes his military skills to become a private investigator in Hawaii taking jobs no one else will with the help of fellow vets T.C. Calvin and Rick Wright, and the former MI:6 agent Higgins.</string>
+    <string name="tv_overview_amilliontittle">A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friend dies unexpectedly.</string>
+
+    <string name="tab_title_1">Movies</string>
+    <string name="tab_title_2">Tv Show</string>
+    <string name="change_language">Change Language</string>
+
+
+
+
+</resources>
